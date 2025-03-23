@@ -1,4 +1,4 @@
-<h3 align="left">Meet Deepika! 😎 I’m a DevOps/Cloud Engineer</h3>
+<h3 align="left">Meet Deepika! 😎 tinkering with NeW iDeas</h3>
 
 ###
 
@@ -37,3 +37,13 @@
 </div>
 
 ###
+<h3 align="center">Empowering Cloud and DevOps Journeys with Automation</h3>
+
+- 💬 Ask me about **Networking , Cloud & Devops**
+
+- ⚡ Fun fact **Coffee and cloud infrastructure are my two main fuels**
+
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/ko-fi @deepikapanghal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi @deepikapanghal" /></a></p><br><br>
